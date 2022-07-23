@@ -79,7 +79,6 @@ span{
     border-bottom: 2px solid black;
     width: 25px;
     text-align: center;
-    margin-right: 3px;
     display: inline-block;
     padding-bottom: .2rem;
 }
@@ -155,6 +154,7 @@ span{
 
     span{
         font-size: 2rem;
+        margin-right: 3px;
         width: 30px;
         margin-right: 6px;
     }
